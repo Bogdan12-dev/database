@@ -1,4 +1,12 @@
 # database
 (including flask, sqlalchemy, unittest, etc)
 
-The character starts by desiring acceptance and conformity but experiences cultural clashes. Over time, there's a shift towards embracing and appreciating her Chinese identity, culminating in a prideful acceptance of cultural uniqueness.
+
+"I knew that she understood how much I had suffered during the evening's dinner. It wasn't until many years later – long after I had gotten over my crush on Robert – that I was able to fully appreciate her lesson and the true purpose behind our particular menu."
+
+
+
+
+
+
+
